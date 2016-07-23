@@ -23,8 +23,8 @@ description: A Indie Game Studio
 
 # List of links in the navigation bar
 navbar-links:
-  Blogs : ""
-  Games :
+  Blogs: ""
+  Games:
     - Blocky Roads: ""
     - Boss Rush: ""
     - Tank Commander: ""
