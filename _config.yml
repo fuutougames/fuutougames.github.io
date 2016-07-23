@@ -23,7 +23,7 @@ description: A Indie Game Studio
 
 # List of links in the navigation bar
 navbar-links:
-  Blogs: "aboutme"
+  Blogs: ""
   Games:
     - Blocky Roads: ""
     - Boss Rush: ""
