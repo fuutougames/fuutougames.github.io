@@ -1,9 +1,9 @@
-Welcome to dev log of SoliderS, today is the first day of development, I focus on working out a simple game development document.
-Writing a GDD is kind of hard work, but thanks to google, I finish this with the referense of
-[how-to-write-a-game-design-document](http://trickgs.com/blog/how-to-write-a-game-design-document/)
-[Writing a GDD Game Design Document](https://www.youtube.com/watch?v=VrP6VM3XpIk)
-[basic-game-mechanics](http://www.gamedesigning.org/career/basic-game-mechanics/)
-ETC..
+Welcome to dev log of SoliderS, today is the first day of development, I focus on working out a simple game development document.  
+Writing a GDD is kind of hard work, but thanks to google, I finish this with the referense of  
+[how-to-write-a-game-design-document](http://trickgs.com/blog/how-to-write-a-game-design-document/)  
+[Writing a GDD Game Design Document](https://www.youtube.com/watch?v=VrP6VM3XpIk)  
+[basic-game-mechanics](http://www.gamedesigning.org/career/basic-game-mechanics/)  
+ETC..  
 Below is the first version of my GDD, since I plan to finish this game in 3 months with spare time, I keep all of them simple, hope this can draw your interest in my game and I will keep updating the progress in here.
 
 # Game Design Document of SoliderS
