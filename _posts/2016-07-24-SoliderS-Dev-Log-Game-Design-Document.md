@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SoliderS Devlog Day1 : GDD
+title: SoliderS Devlog Day1—GDD
 ---
 Welcome to dev log of SoliderS, today is the first day of development, I focus on working out a simple game development document.  
 Writing a GDD is kind of hard work, but thanks to google, I finish this with the referense of  
