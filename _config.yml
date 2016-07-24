@@ -69,7 +69,7 @@ url-pretty: "http://fuutougames.github.io"  # eg. "deanattali.com/beautiful-jeky
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "fuutougames"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
