@@ -1,3 +1,7 @@
+---
+layout: post
+title: SoliderS Devlog:Game Design Document
+---
 Welcome to dev log of SoliderS, today is the first day of development, I focus on working out a simple game development document.  
 Writing a GDD is kind of hard work, but thanks to google, I finish this with the referense of  
 [how-to-write-a-game-design-document](http://trickgs.com/blog/how-to-write-a-game-design-document/)  
